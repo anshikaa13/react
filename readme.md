@@ -11,3 +11,6 @@ react script apne aap jod leta hai
 COMPONENNT LIKE CHAI SHOULD START WITH CAPITAL LETTER IMPOT EXPORT REMENBER vite mein jsx
 <></>ek br mein ek
 html return ho rha hai to jsx rkhte hein vrna js
+
+hud ka method bnaya jo ki  render krva ske elemnet ko
+react apna bhi deta hai react.createelement
