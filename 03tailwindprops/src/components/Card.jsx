@@ -1,6 +1,7 @@
 import React from 'react'//rfce
 
-function Card() {
+function Card({username,btntext="hello world"}) {
+  // console.log(username)
   return (
     <div className="max-w-xs p-6 rounded-md shadow-md bg-black">
     <img
@@ -10,9 +11,9 @@ function Card() {
     />
     <div className="mt-6 mb-2">
       <span className="block text-sm font-medium font-mono tracking-widest uppercase text-indigo-400">
-        Title
+      {username}
       </span>
-      <h2 className="text-xl font-semibold tracking-wide">Lorem ipsum dolor</h2>
+      <h2 className="text-xl font-semibold tracking-wide">{btntext}</h2>
     </div>
     <p className="text-gray-300">
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio tempora ipsum soluta
