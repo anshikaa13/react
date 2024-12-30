@@ -22,3 +22,4 @@ set conter method to control counter
 usestate use hota hr jgh use update krne ke liye
 
 onclick wants function to be passed ()=>{} curly braces ki jgh sidha function hai hmare pass to vo mein value set kr denge
+agr loop use krne hai react mein to key need hogi vrna performance degrade
