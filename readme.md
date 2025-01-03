@@ -27,3 +27,5 @@ agr loop use krne hai react mein to key need hogi vrna performance degrade
 a tag ki jgh link tag use krte hein kyonki a tag page refresh krta hai or reacte mein to koi esa seen hi nhi hai usme to dom jata hai or nyi chizen add krta hai
 
 context api kya hota ki maan le app mein kuch user name diya or vopohchana hai card mein but card ek dashbord ke and right component ke top component mein hai to hr kisi ko prop ki trh title pass karna is not good sidha ek object hona chahiye jisse card assoisiate kro redux state mamagement 
+
+local storage string mein leta deta hai
